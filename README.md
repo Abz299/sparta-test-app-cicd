@@ -1,1 +1,3 @@
-# sparta-test-app-cicd
+# Sparta Test App CICD
+
+#This repository contains a simple application folder (`app/`) which will be used as the source code for a CI/CD pipeline built with Jenkins.# sparta-test-app-cicd
